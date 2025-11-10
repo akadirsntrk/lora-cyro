@@ -690,35 +690,11 @@ npm test -- --coverage
 python -m pytest integration/
 ```
 
-## 📞 Destek ve İletişim
-
-### Teknik Destek
-- **Dokümantasyon**: [Wiki](https://github.com/akadirsntrk/lora-cyro/wiki)
-- **Issue tracking**: [GitHub Issues](https://github.com/akadirsntrk/lora-cyro/issues)
-- **Discord topluluğu**: [Sunucu linki](https://discord.gg/lora-cyro)
-
 ### İletişim Bilgileri
-- **Proje Lideri**: Ahmet Kadir Şentürk
-- **E-posta**: akadir.sntrk@example.com
-- **LinkedIn**: [Profil](https://linkedin.com/in/akadirsntrk)
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında dağıtılmaktadır. Telif hakkı © 2024 Akıllı Tarım Sistemi.
+- **E-posta**: abdulkadirgeylanisenturk@gmail.com - ozanguney399@gmail.com
+- **LinkedIn**: [Profil](https://linkedin.com/in/akadirsntrk) - [Profil](https://www.linkedin.com/in/ozan-g%C3%BCney-b296a7333/) 
 
 ---
-
-## 🏆 Teşekkür ve Referanslar
-
-### Destekleyen Kurumlar
-- **TÜBİTAK**: Ar-Ge desteği
-- **Tarım Bakanlığı**: Danışmanlık
-- **Üniversiteler**: Akademik işbirliği
-
-### Teknoloji Partnerleri
-- **Semtech**: LoRa teknolojisi
-- **Arduino**: Sensör platformu
-- **AWS**: Bulut altyapısı
 
 ### Açık Kaynak Projeler
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework
